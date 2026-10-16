@@ -1,0 +1,12 @@
+{
+  "name": "emeraldwalk",
+  "owner": { "name": "Brian Ingles" },
+  "description": "Claude Code mods and plugins by emeraldwalk",
+  "plugins": [
+    {
+      "name": "session-outline",
+      "source": "./plugins/session-outline",
+      "description": "A footer toggle that opens a side pane outlining the session: each prompt as an expandable thread of responses and tool calls"
+    }
+  ]
+}

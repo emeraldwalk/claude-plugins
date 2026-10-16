@@ -1,0 +1,7 @@
+{
+  "name": "session-outline",
+  "version": "0.1.0",
+  "author": { "name": "Brian Ingles" },
+  "description": "A footer toggle that opens a side pane outlining the session: each prompt as an expandable thread of responses and tool calls",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,4 @@
+# Laid by Claude Code beside each mod it loads; regenerated on every load.
+.claude-plugin/types/
+.DS_Store
+*.log
